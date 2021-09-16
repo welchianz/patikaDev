@@ -1,2 +1,2 @@
 # patikaDev
-Patikadev sitesinde yer alan python dersi için projemi hazırlayacağım yer.
+Patikadev sitesindeki derslerde verilen ödevler için projelerimi hazırlayacağım yer.
